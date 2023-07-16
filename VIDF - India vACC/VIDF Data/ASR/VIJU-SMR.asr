@@ -1,0 +1,44 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:Group\VIJU:freetext
+Free Text:Group\VIJU:freetext
+Free Text:VIJU\1:freetext
+Free Text:VIJU\1:freetext
+Free Text:VIJU\2:freetext
+Free Text:VIJU\2:freetext
+Free Text:VIJU\3:freetext
+Free Text:VIJU\3:freetext
+Free Text:VIJU\4:freetext
+Free Text:VIJU\4:freetext
+Free Text:VIJU\5:freetext
+Free Text:VIJU\5:freetext
+Free Text:VIJU\6:freetext
+Free Text:VIJU\6:freetext
+Free Text:VIJU\A:freetext
+Free Text:VIJU\A:freetext
+Free Text:VIJU\B:freetext
+Free Text:VIJU\B:freetext
+Free Text:VIJU\C:freetext
+Free Text:VIJU\C:freetext
+Free Text:VIJU\D:freetext
+Free Text:VIJU\D:freetext
+Free Text:VIJU\E:freetext
+Free Text:VIJU\E:freetext
+Geo:VIJU:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:273.00000
+TAGFAMILY:India vACC
+WINDOWAREA:32.683238:74.828675:32.694181:74.851184
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Airport:VIJU

@@ -1,0 +1,74 @@
+ASRFastKeys	1	\VIDF Data\ASR\VIDF Master.asr
+ASRFastKeys	2	\VIDF Data\ASR\VIDP-SMR.asr
+ASRFastKeys	3	\VIDF Data\ASR\VILK-SMR.asr
+ASRFastKeys	4	\VIDF Data\ASR\VISR-SMR.asr
+ASRFastKeys	5	\VIDF Data\ASR\VIJU-SMR.asr
+ASRFastKeys	6	\VIDF Data\ASR\VIDN-SMR.asr
+ASRFastKeys	7	\VIDF Data\ASR\VICG-SMR.asr
+ASRFastKeys	8	\VIDF Data\ASR\VIJP-SMR.asr
+Plugins	Plugin0	\VIDF Data\Plugins\AFVEuroscopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin1	\VIDF Data\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin2	\VIDF Data\Plugins\RDF\RDFPlugin.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin2Display1	SMR radar display
+Plugins	Plugin3	\VIDF Data\Plugins\vSMR\vSMR.dll
+Plugins	Plugin3Display0	SMR radar display
+Plugins	Plugin4	\VIDF Data\Plugins\Euroscope Trails\EuroScopeTrails.dll
+Plugins	Plugin4Display0	Standard ES radar screen
+Plugins	Plugin5	\VIDF Data\Plugins\HoldingList\HoldingListPlugin.dll
+Plugins	Plugin5Display0	Standard ES radar screen
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Settings	Settingsfile	\VIDF Data\Settings\General.txt
+Settings	SettingsfileARR	\VIDF Data\Settings\ArrivalList.txt
+Settings	SettingsfileCONFLICT	\VIDF Data\Settings\ConflictList.txt
+Settings	SettingsfileDEP	\VIDF Data\Settings\DepartureList.txt
+Settings	SettingsfileFP	\VIDF Data\Settings\FlightPlanList.txt
+Settings	SettingsfilePILOTING	\VIDF Data\Settings\PilotingList.txt
+Settings	SettingsfilePLUGINS	\VIDF Data\Settings\Plugin.txt
+Settings	SettingsfilePROFILE	\VIDF Data\Settings\Profiles.txt
+Settings	SettingsfileSCREEN	\VIDF Data\Settings\Screen.txt
+Settings	SettingsfileSEL	\VIDF Data\Settings\SectorExitList.txt
+Settings	SettingsfileSIL	\VIDF Data\Settings\SectorInboundList.txt
+Settings	SettingsfileSYMBOLOGY	\VIDF Data\Settings\Symbology.txt
+Settings	SettingsfileTAGS	\VIDF Data\Settings\Tags.txt
+Settings	SettingsfileVCCS	\VIDF Data\Settings\VCCS.txt
+Settings	SettingsfileVOICE	\VIDF Data\Settings\VoiceChannels.txt
+Settings	aircraft	\VIDF Data\DataFiles\ICAO_Aircraft.txt
+Settings	airlines	\VIDF Data\DataFiles\ICAO_Airlines.txt
+Settings	airportcoords	\VIDF Data\DataFiles\icao.txt
+Settings	airports	\VIDF Data\DataFiles\ICAO_Airports.txt
+Settings	airways	\VIDF Data\DataFiles\airway.txt
+Settings	alias	\VIDF Data\Alias\alias.txt
+Settings	sector	\VIDF Data\Sector File\VIDF Master.sct
+Sounds	Sound0	\VIDF Data\Sounds\handoff_request.wav
+Sounds	Sound1	\VIDF Data\Sounds\handoff_accept.wav
+Sounds	Sound10	\VIDF Data\Sounds\disconnected.wav
+Sounds	Sound11	\VIDF Data\Sounds\ongoing_request.wav
+Sounds	Sound12	\VIDF Data\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\VIDF Data\Sounds\ongoing_refused.wav
+Sounds	Sound14	\VIDF Data\Sounds\ongoing_manual.wav
+Sounds	Sound15	\VIDF Data\Sounds\new_atis.wav
+Sounds	Sound16	\VIDF Data\Sounds\handoff_refused.wav
+Sounds	Sound17	\VIDF Data\Sounds\pointout.wav
+Sounds	Sound18	\VIDF Data\Sounds\startup.wav
+Sounds	Sound2	\VIDF Data\Sounds\conflict_alert.wav
+Sounds	Sound3	\VIDF Data\Sounds\radio_message.wav
+Sounds	Sound4	\VIDF Data\Sounds\private_message.wav
+Sounds	Sound5	\VIDF Data\Sounds\atc_message.wav
+Sounds	Sound6	\VIDF Data\Sounds\broadcast_message.wav
+Sounds	Sound7	\VIDF Data\Sounds\landline_request.wav
+Sounds	Sound8	\VIDF Data\Sounds\supervisor_message.wav
+Sounds	Sound9	\VIDF Data\Sounds\connected.wav
+LastSession	connecttype	0
+LastSession	callsign	Select__Here------>
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	atis2	If You Do Not Find Your Callsign Or Frequency, Enter Manually.
+LastSession	atis3	Enter Callsign - ICAO_Facility (DEL/GND/TWR/APP/DEP/CTR)
+LastSession	atis4	India vACC | VATSIM West Asia
+LastSession	range	50
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+RecentFiles	Recent1	\VIDF Data\ASR\VIDF Master.asr

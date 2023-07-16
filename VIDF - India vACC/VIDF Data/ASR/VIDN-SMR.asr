@@ -1,0 +1,33 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:VIDN:name
+Airports:VIDN:symbol
+Free Text:VIDN\1:freetext
+Free Text:VIDN\1:freetext
+Free Text:VIDN\2:freetext
+Free Text:VIDN\2:freetext
+Free Text:VIDN\3:freetext
+Free Text:VIDN\3:freetext
+Free Text:VIDN\4:freetext
+Free Text:VIDN\5:freetext
+Free Text:VIDN\A:freetext
+Free Text:VIDN\B:freetext
+Geo:VIDN:
+Runways:VIDN DEHRADUN 08-26:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:9.00000
+TAGFAMILY:India vACC
+WINDOWAREA:30.184053:78.166156:30.197731:78.194292
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Airport:VIDN

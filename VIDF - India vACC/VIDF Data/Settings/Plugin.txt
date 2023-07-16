@@ -1,0 +1,25 @@
+PLUGINS
+Holding List:ACList/Holding list/m_Visible:1
+Holding List:ACList/Holding list/m_X:1041
+Holding List:ACList/Holding list/m_Y:521
+Holding List:ACList/Holding list/m_LineNumber:0
+Holding List:ACList/Holding list/m_Resizable:1
+Holding List:ACList/Holding list/m_OrderingColumn:1
+Holding List:ACList/Holding list/m_Column_0:C/S:6:0:9:0:0:1:::
+Holding List:ACList/Holding list/m_Column_1:H/P:6:0:1:1:0:1:Holding List:Holding List:
+Holding List:ACList/Holding list/m_Column_2:AFL:4:1:4:0:0:1:::
+Holding List:ACList/Holding list/m_Column_3:CFL:4:1:20:11:0:1:::
+Holding List:ACList/Holding list/m_Column_4:TIM:6:1:2:0:0:1:Holding List::
+Holding List:ACList/Holding list/m_Column_5:REM:6:1:3:2:0:1:Holding List:Holding List:
+Virtual Controller Assistant:TIMESEP:1
+Virtual Controller Assistant:ADTTYPE:3
+Virtual Controller Assistant:EARLYCOL:46080
+Virtual Controller Assistant:LATECOL:128
+Virtual Controller Assistant:PUSHCOL:11796480
+Virtual Controller Assistant:TOTCOL:16508866
+Virtual Controller Assistant:LDTCOL:7972310
+Virtual Controller Assistant:MODTCOL:8486256
+Virtual Controller Assistant:SQK1:VIDP:1
+Virtual Controller Assistant:SQK:0
+Virtual Controller Assistant:ALT:0
+END

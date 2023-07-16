@@ -1,0 +1,46 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:VIJP:name
+Airports:VIJP:symbol
+Free Text:VIJP\1:freetext
+Free Text:VIJP\10:freetext
+Free Text:VIJP\11:freetext
+Free Text:VIJP\12:freetext
+Free Text:VIJP\13:freetext
+Free Text:VIJP\14:freetext
+Free Text:VIJP\15:freetext
+Free Text:VIJP\16:freetext
+Free Text:VIJP\17:freetext
+Free Text:VIJP\18:freetext
+Free Text:VIJP\19:freetext
+Free Text:VIJP\2:freetext
+Free Text:VIJP\20:freetext
+Free Text:VIJP\21:freetext
+Free Text:VIJP\3:freetext
+Free Text:VIJP\4:freetext
+Free Text:VIJP\5:freetext
+Free Text:VIJP\8:freetext
+Free Text:VIJP\9:freetext
+Free Text:VIJP\A:freetext
+Free Text:VIJP\B:freetext
+Free Text:VIJP\C:freetext
+Free Text:VIJP\D:freetext
+Geo:VIJP:
+Runways:VIJP JAIPUR 09-27:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:5.00000
+TAGFAMILY:India vACC
+WINDOWAREA:26.817237:75.793635:26.834335:75.828805
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Airport:VIJP

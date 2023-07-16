@@ -1,0 +1,80 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:VICG:name
+Airports:VICG:symbol
+Free Text:VICG\1:freetext
+Free Text:VICG\1:freetext
+Free Text:VICG\10:freetext
+Free Text:VICG\11:freetext
+Free Text:VICG\12:freetext
+Free Text:VICG\13:freetext
+Free Text:VICG\14:freetext
+Free Text:VICG\15:freetext
+Free Text:VICG\16:freetext
+Free Text:VICG\17:freetext
+Free Text:VICG\18:freetext
+Free Text:VICG\19:freetext
+Free Text:VICG\2:freetext
+Free Text:VICG\2:freetext
+Free Text:VICG\20:freetext
+Free Text:VICG\21:freetext
+Free Text:VICG\22:freetext
+Free Text:VICG\23:freetext
+Free Text:VICG\24:freetext
+Free Text:VICG\25:freetext
+Free Text:VICG\26:freetext
+Free Text:VICG\27:freetext
+Free Text:VICG\3:freetext
+Free Text:VICG\3:freetext
+Free Text:VICG\32:freetext
+Free Text:VICG\33:freetext
+Free Text:VICG\34:freetext
+Free Text:VICG\35:freetext
+Free Text:VICG\36:freetext
+Free Text:VICG\37:freetext
+Free Text:VICG\38:freetext
+Free Text:VICG\39:freetext
+Free Text:VICG\4:freetext
+Free Text:VICG\40:freetext
+Free Text:VICG\41:freetext
+Free Text:VICG\42:freetext
+Free Text:VICG\43:freetext
+Free Text:VICG\44:freetext
+Free Text:VICG\45:freetext
+Free Text:VICG\46:freetext
+Free Text:VICG\47:freetext
+Free Text:VICG\48:freetext
+Free Text:VICG\49:freetext
+Free Text:VICG\5:freetext
+Free Text:VICG\50:freetext
+Free Text:VICG\51:freetext
+Free Text:VICG\52:freetext
+Free Text:VICG\53:freetext
+Free Text:VICG\6:freetext
+Free Text:VICG\7:freetext
+Free Text:VICG\8:freetext
+Free Text:VICG\9:freetext
+Free Text:VICG\A:freetext
+Free Text:VICG\B:freetext
+Free Text:VICG\C:freetext
+Free Text:VICG\D:freetext
+Free Text:VICG\E:freetext
+Geo:VICG:
+Runways:VICG CHANDIGARH 11-29:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:338.00000
+TAGFAMILY:India vACC
+WINDOWAREA:30.665310:76.767715:30.686683:76.811677
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Airport:VICG

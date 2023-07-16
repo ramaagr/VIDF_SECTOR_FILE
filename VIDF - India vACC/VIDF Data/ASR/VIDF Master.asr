@@ -1,0 +1,625 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:VIAG:name
+Airports:VIAM:name
+Airports:VIAR:name
+Airports:VIAW:name
+Airports:VIAX:name
+Airports:VIBK:name
+Airports:VIBL:name
+Airports:VIBT:name
+Airports:VIBY:name
+Airports:VICG:name
+Airports:VIDN:name
+Airports:VIDP:name
+Airports:VIDX:name
+Airports:VIGG:name
+Airports:VIGR:name
+Airports:VIHX:name
+Airports:VIJO:name
+Airports:VIJP:name
+Airports:VIJR:name
+Airports:VIKG:name
+Airports:VIKL:name
+Airports:VILD:name
+Airports:VILH:name
+Airports:VILK:name
+Airports:VIPK:name
+Airports:VIPT:name
+Airports:VISG:name
+Airports:VISP:name
+Airports:VISR:name
+Airports:VISX:name
+Airports:VITE:name
+Airports:VIUT:name
+Airports:VIUX:name
+ARTCC boundary:VIDP_CTR:
+ARTCC boundary:VIDP_E_CTR:
+ARTCC boundary:VIDP_S_CTR:
+ARTCC boundary:VIDP_W_CTR:
+ARTCC boundary:VIUX_N_CTR:
+ARTCC boundary:VIUX_S_CTR:
+ARTCC high boundary:CHINA_FIR_BOR_1:
+ARTCC high boundary:PAK_FIR_BORDER_1:
+ARTCC high boundary:PAK_FIR_BORDER_2:
+ARTCC high boundary:VAAH_CTR:
+ARTCC high boundary:VANP_CTR:
+ARTCC high boundary:VEBN_CTR:
+ARTCC high boundary:VIDF_CTR:
+ARTCC low boundary:VIAG_CTZ:
+ARTCC low boundary:VIAR_CTZ:
+ARTCC low boundary:VICG_CTZ:
+ARTCC low boundary:VIDN_CTZ:
+ARTCC low boundary:VIDP_CTA:
+ARTCC low boundary:VIDP_CTZ:
+ARTCC low boundary:VIGR_CTZ:
+ARTCC low boundary:VIJO_CTZ:
+ARTCC low boundary:VIJP_CTA:
+ARTCC low boundary:VIJP_CTZ:
+ARTCC low boundary:VIJU_CTZ:
+ARTCC low boundary:VILK_CTZ:
+ARTCC low boundary:VILK_TMA:
+ARTCC low boundary:VIPK_CTZ:
+ARTCC low boundary:VISR_CTZ:
+Free Text:FIRs/ACC\Karachi FIR (OPKR_CTR):freetext
+Free Text:FIRs/ACC\Kathmandu FIR (VNSM_CTR):freetext
+Free Text:FIRs/ACC\Kolkata FIR (VECF_CTR):freetext
+Free Text:FIRs/ACC\Lahore FIR (OPLR_CTR):freetext
+Free Text:FIRs/ACC\Mumbai FIR (VABF_CTR):freetext
+Free Text:FIRs/ACC\Urumqi FIR (ZWUQ_CTR):freetext
+Free Text:Group\VIAR:freetext
+Free Text:Group\VICG:freetext
+Free Text:Group\VIDN:freetext
+Free Text:Group\VIJP:freetext
+Free Text:Group\VIJU:freetext
+Free Text:Group\VIJU:freetext
+Free Text:Group\VISM:freetext
+Free Text:Group\VISR:freetext
+Free Text:SCT2\A :freetext
+Free Text:SCT2\A :freetext
+Free Text:SCT2\A :freetext
+Free Text:SCT2\A :freetext
+Free Text:SCT2\A :freetext
+Free Text:SCT2\A :freetext
+Free Text:SCT2\B :freetext
+Free Text:SCT2\B2:freetext
+Free Text:SCT2\C :freetext
+Free Text:SCT2\C1:freetext
+Free Text:SCT2\CARGO:freetext
+Free Text:SCT2\CE1 :freetext
+Free Text:SCT2\CE2 :freetext
+Free Text:SCT2\CW1 :freetext
+Free Text:SCT2\CW2 :freetext
+Free Text:SCT2\CW2 :freetext
+Free Text:SCT2\D :freetext
+Free Text:SCT2\D1:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E2:freetext
+Free Text:SCT2\E2:freetext
+Free Text:SCT2\E2:freetext
+Free Text:SCT2\E3:freetext
+Free Text:SCT2\E4:freetext
+Free Text:SCT2\E5:freetext
+Free Text:SCT2\F :freetext
+Free Text:SCT2\F1:freetext
+Free Text:SCT2\F2:freetext
+Free Text:SCT2\F3 :freetext
+Free Text:SCT2\F4 :freetext
+Free Text:SCT2\H :freetext
+Free Text:SCT2\J :freetext
+Free Text:SCT2\K :freetext
+Free Text:SCT2\L :freetext
+Free Text:SCT2\L1 :freetext
+Free Text:SCT2\M :freetext
+Free Text:SCT2\M1 :freetext
+Free Text:SCT2\N :freetext
+Free Text:SCT2\P :freetext
+Free Text:SCT2\P :freetext
+Free Text:SCT2\P :freetext
+Free Text:SCT2\P :freetext
+Free Text:SCT2\R :freetext
+Free Text:SCT2\R :freetext
+Free Text:SCT2\R1 :freetext
+Free Text:SCT2\R3 :freetext
+Free Text:SCT2\S :freetext
+Free Text:SCT2\S2 :freetext
+Free Text:SCT2\S3 :freetext
+Free Text:SCT2\S3 :freetext
+Free Text:SCT2\S4 :freetext
+Free Text:SCT2\S4 :freetext
+Free Text:SCT2\S5 :freetext
+Free Text:SCT2\S5 :freetext
+Free Text:SCT2\T :freetext
+Free Text:SCT2\T :freetext
+Free Text:SCT2\T :freetext
+Free Text:SCT2\T1 :freetext
+Free Text:SCT2\T2 :freetext
+Free Text:SCT2\T3 :freetext
+Free Text:SCT2\Terminal-1:freetext
+Free Text:SCT2\Terminal-2:freetext
+Free Text:SCT2\Terminal-3:freetext
+Free Text:SCT2\U :freetext
+Free Text:SCT2\V :freetext
+Free Text:SCT2\W :freetext
+Free Text:SCT2\W1 :freetext
+Free Text:SCT2\W2 :freetext
+Free Text:SCT2\W3 :freetext
+Free Text:SCT2\Y :freetext
+Free Text:SCT2\Y :freetext
+Free Text:SCT2\Y :freetext
+Free Text:SCT2\Y5 :freetext
+Free Text:SCT2\Z :freetext
+Free Text:SCT2\Z :freetext
+Free Text:SCT2\Z :freetext
+Free Text:SCT2\Z1 :freetext
+Free Text:SCT2\Z1A :freetext
+Free Text:SCT2\Z2 :freetext
+Free Text:SCT2\Z2 :freetext
+Free Text:SCT2\Z3 :freetext
+Free Text:SCT2\Z4 :freetext
+Free Text:SCT2\Z5 :freetext
+Free Text:SCT2\Z6 :freetext
+Free Text:SCT2\Z7 :freetext
+Free Text:SCT2\Z8 :freetext
+Free Text:SCT2\Z9 :freetext
+Free Text:VIAR\1:freetext
+Free Text:VIAR\10:freetext
+Free Text:VIAR\11:freetext
+Free Text:VIAR\12:freetext
+Free Text:VIAR\13:freetext
+Free Text:VIAR\14:freetext
+Free Text:VIAR\2:freetext
+Free Text:VIAR\3:freetext
+Free Text:VIAR\4:freetext
+Free Text:VIAR\5:freetext
+Free Text:VIAR\6:freetext
+Free Text:VIAR\7:freetext
+Free Text:VIAR\8:freetext
+Free Text:VIAR\9:freetext
+Free Text:VIAR\E:freetext
+Free Text:VIAR\F:freetext
+Free Text:VIAR\G:freetext
+Free Text:VICG\1:freetext
+Free Text:VICG\1:freetext
+Free Text:VICG\10:freetext
+Free Text:VICG\11:freetext
+Free Text:VICG\12:freetext
+Free Text:VICG\13:freetext
+Free Text:VICG\14:freetext
+Free Text:VICG\15:freetext
+Free Text:VICG\16:freetext
+Free Text:VICG\17:freetext
+Free Text:VICG\18:freetext
+Free Text:VICG\19:freetext
+Free Text:VICG\2:freetext
+Free Text:VICG\2:freetext
+Free Text:VICG\20:freetext
+Free Text:VICG\21:freetext
+Free Text:VICG\22:freetext
+Free Text:VICG\23:freetext
+Free Text:VICG\24:freetext
+Free Text:VICG\25:freetext
+Free Text:VICG\26:freetext
+Free Text:VICG\27:freetext
+Free Text:VICG\3:freetext
+Free Text:VICG\3:freetext
+Free Text:VICG\32:freetext
+Free Text:VICG\33:freetext
+Free Text:VICG\34:freetext
+Free Text:VICG\35:freetext
+Free Text:VICG\36:freetext
+Free Text:VICG\37:freetext
+Free Text:VICG\38:freetext
+Free Text:VICG\39:freetext
+Free Text:VICG\4:freetext
+Free Text:VICG\40:freetext
+Free Text:VICG\41:freetext
+Free Text:VICG\42:freetext
+Free Text:VICG\43:freetext
+Free Text:VICG\44:freetext
+Free Text:VICG\45:freetext
+Free Text:VICG\46:freetext
+Free Text:VICG\47:freetext
+Free Text:VICG\48:freetext
+Free Text:VICG\49:freetext
+Free Text:VICG\5:freetext
+Free Text:VICG\50:freetext
+Free Text:VICG\51:freetext
+Free Text:VICG\52:freetext
+Free Text:VICG\53:freetext
+Free Text:VICG\6:freetext
+Free Text:VICG\7:freetext
+Free Text:VICG\8:freetext
+Free Text:VICG\9:freetext
+Free Text:VICG\A:freetext
+Free Text:VICG\B:freetext
+Free Text:VICG\C:freetext
+Free Text:VICG\D:freetext
+Free Text:VICG\E:freetext
+Free Text:VIDN\1:freetext
+Free Text:VIDN\1:freetext
+Free Text:VIDN\2:freetext
+Free Text:VIDN\2:freetext
+Free Text:VIDN\3:freetext
+Free Text:VIDN\3:freetext
+Free Text:VIDN\4:freetext
+Free Text:VIDN\5:freetext
+Free Text:VIDN\A:freetext
+Free Text:VIDN\B:freetext
+Free Text:VIDP parkings\1:freetext
+Free Text:VIDP parkings\10:freetext
+Free Text:VIDP parkings\100:freetext
+Free Text:VIDP parkings\101:freetext
+Free Text:VIDP parkings\102:freetext
+Free Text:VIDP parkings\103:freetext
+Free Text:VIDP parkings\11:freetext
+Free Text:VIDP parkings\12:freetext
+Free Text:VIDP parkings\121:freetext
+Free Text:VIDP parkings\122:freetext
+Free Text:VIDP parkings\123:freetext
+Free Text:VIDP parkings\124:freetext
+Free Text:VIDP parkings\125:freetext
+Free Text:VIDP parkings\126:freetext
+Free Text:VIDP parkings\127:freetext
+Free Text:VIDP parkings\128:freetext
+Free Text:VIDP parkings\129:freetext
+Free Text:VIDP parkings\13:freetext
+Free Text:VIDP parkings\130:freetext
+Free Text:VIDP parkings\131:freetext
+Free Text:VIDP parkings\132:freetext
+Free Text:VIDP parkings\134:freetext
+Free Text:VIDP parkings\135:freetext
+Free Text:VIDP parkings\136:freetext
+Free Text:VIDP parkings\137:freetext
+Free Text:VIDP parkings\138:freetext
+Free Text:VIDP parkings\139:freetext
+Free Text:VIDP parkings\140:freetext
+Free Text:VIDP parkings\141:freetext
+Free Text:VIDP parkings\142:freetext
+Free Text:VIDP parkings\143:freetext
+Free Text:VIDP parkings\144:freetext
+Free Text:VIDP parkings\145:freetext
+Free Text:VIDP parkings\146:freetext
+Free Text:VIDP parkings\147:freetext
+Free Text:VIDP parkings\148:freetext
+Free Text:VIDP parkings\149:freetext
+Free Text:VIDP parkings\15:freetext
+Free Text:VIDP parkings\150:freetext
+Free Text:VIDP parkings\151:freetext
+Free Text:VIDP parkings\152:freetext
+Free Text:VIDP parkings\16:freetext
+Free Text:VIDP parkings\161:freetext
+Free Text:VIDP parkings\162:freetext
+Free Text:VIDP parkings\163:freetext
+Free Text:VIDP parkings\164:freetext
+Free Text:VIDP parkings\165:freetext
+Free Text:VIDP parkings\166:freetext
+Free Text:VIDP parkings\167:freetext
+Free Text:VIDP parkings\168:freetext
+Free Text:VIDP parkings\169:freetext
+Free Text:VIDP parkings\17:freetext
+Free Text:VIDP parkings\170:freetext
+Free Text:VIDP parkings\171:freetext
+Free Text:VIDP parkings\172:freetext
+Free Text:VIDP parkings\173:freetext
+Free Text:VIDP parkings\174:freetext
+Free Text:VIDP parkings\176:freetext
+Free Text:VIDP parkings\177:freetext
+Free Text:VIDP parkings\178:freetext
+Free Text:VIDP parkings\179:freetext
+Free Text:VIDP parkings\180:freetext
+Free Text:VIDP parkings\181:freetext
+Free Text:VIDP parkings\182:freetext
+Free Text:VIDP parkings\183:freetext
+Free Text:VIDP parkings\184:freetext
+Free Text:VIDP parkings\185:freetext
+Free Text:VIDP parkings\186:freetext
+Free Text:VIDP parkings\187:freetext
+Free Text:VIDP parkings\188:freetext
+Free Text:VIDP parkings\19:freetext
+Free Text:VIDP parkings\2:freetext
+Free Text:VIDP parkings\20:freetext
+Free Text:VIDP parkings\21:freetext
+Free Text:VIDP parkings\22:freetext
+Free Text:VIDP parkings\23:freetext
+Free Text:VIDP parkings\24:freetext
+Free Text:VIDP parkings\25:freetext
+Free Text:VIDP parkings\26:freetext
+Free Text:VIDP parkings\28:freetext
+Free Text:VIDP parkings\29:freetext
+Free Text:VIDP parkings\3:freetext
+Free Text:VIDP parkings\30:freetext
+Free Text:VIDP parkings\31:freetext
+Free Text:VIDP parkings\32:freetext
+Free Text:VIDP parkings\33:freetext
+Free Text:VIDP parkings\34:freetext
+Free Text:VIDP parkings\35:freetext
+Free Text:VIDP parkings\36:freetext
+Free Text:VIDP parkings\37:freetext
+Free Text:VIDP parkings\38:freetext
+Free Text:VIDP parkings\39:freetext
+Free Text:VIDP parkings\4:freetext
+Free Text:VIDP parkings\40:freetext
+Free Text:VIDP parkings\40:freetext
+Free Text:VIDP parkings\40:freetext
+Free Text:VIDP parkings\41:freetext
+Free Text:VIDP parkings\42:freetext
+Free Text:VIDP parkings\43:freetext
+Free Text:VIDP parkings\44:freetext
+Free Text:VIDP parkings\45:freetext
+Free Text:VIDP parkings\46:freetext
+Free Text:VIDP parkings\47:freetext
+Free Text:VIDP parkings\48:freetext
+Free Text:VIDP parkings\49:freetext
+Free Text:VIDP parkings\5:freetext
+Free Text:VIDP parkings\6:freetext
+Free Text:VIDP parkings\7:freetext
+Free Text:VIDP parkings\8:freetext
+Free Text:VIDP parkings\81:freetext
+Free Text:VIDP parkings\82:freetext
+Free Text:VIDP parkings\83:freetext
+Free Text:VIDP parkings\84:freetext
+Free Text:VIDP parkings\85:freetext
+Free Text:VIDP parkings\86:freetext
+Free Text:VIDP parkings\87:freetext
+Free Text:VIDP parkings\88:freetext
+Free Text:VIDP parkings\89:freetext
+Free Text:VIDP parkings\9:freetext
+Free Text:VIDP parkings\90:freetext
+Free Text:VIDP parkings\91:freetext
+Free Text:VIDP parkings\92:freetext
+Free Text:VIDP parkings\98:freetext
+Free Text:VIDP parkings\99:freetext
+Free Text:VIDP parkings\A1:freetext
+Free Text:VIDP parkings\A10:freetext
+Free Text:VIDP parkings\A11:freetext
+Free Text:VIDP parkings\A12:freetext
+Free Text:VIDP parkings\A13:freetext
+Free Text:VIDP parkings\A14:freetext
+Free Text:VIDP parkings\A3:freetext
+Free Text:VIDP parkings\A6:freetext
+Free Text:VIDP parkings\A7:freetext
+Free Text:VIDP parkings\A8:freetext
+Free Text:VIDP parkings\A9:freetext
+Free Text:VIDP parkings\B15:freetext
+Free Text:VIDP parkings\B17:freetext
+Free Text:VIDP parkings\B18:freetext
+Free Text:VIDP parkings\B19:freetext
+Free Text:VIDP parkings\B20:freetext
+Free Text:VIDP parkings\B21:freetext
+Free Text:VIDP parkings\B22:freetext
+Free Text:VIDP parkings\B24:freetext
+Free Text:VIDP parkings\B26:freetext
+Free Text:VIDP parkings\C27:freetext
+Free Text:VIDP parkings\C28:freetext
+Free Text:VIDP parkings\C29:freetext
+Free Text:VIDP parkings\C30:freetext
+Free Text:VIDP parkings\C31:freetext
+Free Text:VIDP parkings\C32:freetext
+Free Text:VIDP parkings\C33:freetext
+Free Text:VIDP parkings\C34:freetext
+Free Text:VIDP parkings\C36:freetext
+Free Text:VIDP parkings\D37:freetext
+Free Text:VIDP parkings\D39:freetext
+Free Text:VIDP parkings\D41:freetext
+Free Text:VIDP parkings\D43:freetext
+Free Text:VIDP parkings\D45:freetext
+Free Text:VIDP parkings\D46:freetext
+Free Text:VIDP parkings\D47:freetext
+Free Text:VIDP parkings\D48:freetext
+Free Text:VIDP parkings\D49:freetext
+Free Text:VIDP parkings\D50:freetext
+Free Text:VIDP parkings\D51:freetext
+Free Text:VIDP parkings\D52:freetext
+Free Text:VIDP parkings\D53:freetext
+Free Text:VIDP parkings\D54:freetext
+Free Text:VIDP parkings\D55:freetext
+Free Text:VIDP parkings\D56:freetext
+Free Text:VIDP parkings\D58:freetext
+Free Text:VIDP parkings\D60:freetext
+Free Text:VIDP parkings\D62:freetext
+Free Text:VIDP parkings\E68:freetext
+Free Text:VIDP parkings\E70:freetext
+Free Text:VIDP parkings\E72:freetext
+Free Text:VIDP parkings\E74:freetext
+Free Text:VIDP parkings\E76:freetext
+Free Text:VIDP parkings\E78:freetext
+Free Text:VIDP parkings\E80:freetext
+Free Text:VIDP parkings\E82:freetext
+Free Text:VIDP parkings\E84:freetext
+Free Text:VIDP parkings\R1:freetext
+Free Text:VIDP parkings\R2:freetext
+Free Text:VIDP parkings\R3:freetext
+Free Text:VIDP parkings\R4:freetext
+Free Text:VIDP parkings\R5:freetext
+Free Text:VIDP parkings\R6:freetext
+Free Text:VIDP parkings\R7:freetext
+Free Text:VIDP parkings\R8:freetext
+Free Text:VIDP parkings\R9:freetext
+Free Text:VIJP\1:freetext
+Free Text:VIJP\10:freetext
+Free Text:VIJP\11:freetext
+Free Text:VIJP\12:freetext
+Free Text:VIJP\13:freetext
+Free Text:VIJP\14:freetext
+Free Text:VIJP\15:freetext
+Free Text:VIJP\16:freetext
+Free Text:VIJP\17:freetext
+Free Text:VIJP\18:freetext
+Free Text:VIJP\19:freetext
+Free Text:VIJP\2:freetext
+Free Text:VIJP\20:freetext
+Free Text:VIJP\21:freetext
+Free Text:VIJP\3:freetext
+Free Text:VIJP\4:freetext
+Free Text:VIJP\5:freetext
+Free Text:VIJP\8:freetext
+Free Text:VIJP\9:freetext
+Free Text:VIJP\A:freetext
+Free Text:VIJP\B:freetext
+Free Text:VIJP\C:freetext
+Free Text:VIJP\D:freetext
+Free Text:VIJU\1:freetext
+Free Text:VIJU\1:freetext
+Free Text:VIJU\2:freetext
+Free Text:VIJU\2:freetext
+Free Text:VIJU\3:freetext
+Free Text:VIJU\3:freetext
+Free Text:VIJU\4:freetext
+Free Text:VIJU\4:freetext
+Free Text:VIJU\5:freetext
+Free Text:VIJU\5:freetext
+Free Text:VIJU\6:freetext
+Free Text:VIJU\6:freetext
+Free Text:VIJU\A:freetext
+Free Text:VIJU\A:freetext
+Free Text:VIJU\B:freetext
+Free Text:VIJU\B:freetext
+Free Text:VIJU\C:freetext
+Free Text:VIJU\C:freetext
+Free Text:VIJU\D:freetext
+Free Text:VIJU\D:freetext
+Free Text:VIJU\E:freetext
+Free Text:VIJU\E:freetext
+Free Text:VISM\1:freetext
+Free Text:VISM\2:freetext
+Free Text:VISR\1:freetext
+Free Text:VISR\12:freetext
+Free Text:VISR\13:freetext
+Free Text:VISR\14:freetext
+Free Text:VISR\15:freetext
+Free Text:VISR\16:freetext
+Free Text:VISR\17:freetext
+Free Text:VISR\18:freetext
+Free Text:VISR\19:freetext
+Free Text:VISR\2:freetext
+Free Text:VISR\3:freetext
+Free Text:VISR\4:freetext
+Free Text:VISR\5:freetext
+Free Text:VISR\6:freetext
+Free Text:VISR\7:freetext
+Free Text:VISR\8:freetext
+Free Text:VISR\9:freetext
+Free Text:VISR\A:freetext
+Free Text:VISR\B:freetext
+Free Text:VISR\C:freetext
+Free Text:VISR\D:freetext
+Free Text:VISR\E:freetext
+Free Text:VISR\F:freetext
+Free Text:VISR\G:freetext
+Free Text:VISR\H:freetext
+Free Text:VISR\J:freetext
+Geo:GEO:
+Geo:India_Coastline:
+Geo:Leh_Valley:
+Geo:RESTRICTED:
+Geo:VEMN-Dibrugarh - Mrinal:
+Geo:VICG:
+Geo:VIDN:
+Geo:VIDP GroundLayout:
+Geo:VIJP:
+Geo:VIJU:
+Geo:VILH:
+Geo:VILK:
+Geo:VISM:
+Geo:VISR:
+High airways:A347:line
+High airways:A456:line
+High airways:A466:line
+High airways:A474:line
+High airways:A589:line
+High airways:B345:line
+High airways:G333:line
+High airways:G452:line
+High airways:J1:line
+High airways:J20:line
+High airways:J21:line
+High airways:J22:line
+High airways:J220:line
+High airways:J24:line
+High airways:J6:line
+High airways:L333:line
+High airways:L509:line
+High airways:L626:line
+High airways:L759:line
+High airways:L760:line
+High airways:M875:line
+High airways:M890:line
+High airways:P628:line
+High airways:Q1:line
+High airways:Q2:line
+High airways:Q23:line
+High airways:Q24:line
+High airways:Q3:line
+High airways:Q5:line
+High airways:R218:line
+High airways:R460:line
+High airways:R462:line
+High airways:R594:line
+High airways:T301:line
+High airways:T308:line
+High airways:V10:line
+High airways:V67:line
+High airways:V68:line
+High airways:V94:line
+High airways:W10N:line
+High airways:W10S:line
+High airways:W122N:line
+High airways:W122S:line
+High airways:W123:line
+High airways:W124:line
+High airways:W13N:line
+High airways:W13S:line
+High airways:W19:line
+High airways:W20:line
+High airways:W21:line
+High airways:W22:line
+High airways:W23:line
+High airways:W24:line
+High airways:W25:line
+High airways:W33N:line
+High airways:W33S:line
+High airways:W35:line
+High airways:W36:line
+High airways:W37:line
+High airways:W39:line
+High airways:W40:line
+High airways:W58:line
+High airways:W65N:line
+High airways:W65S:line
+High airways:W85:line
+High airways:W87:line
+High airways:Z1:line
+High airways:Z2:line
+Regions:VIDP GroundLayout:polygon
+VORs:ALI:symbol
+VORs:DDN:symbol
+VORs:JJU:symbol
+VORs:SNG:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:India vACC
+WINDOWAREA:21.159914:58.036267:38.424580:93.548600
+PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
+PLUGIN:EuroScope History Trails:HistoryTrailColour:255,255,0
+PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
+PLUGIN:EuroScope History Trails:HistoryTrailDisplay:1
+PLUGIN:EuroScope History Trails:HistoryTrailDotSize:5
+PLUGIN:EuroScope History Trails:HistoryTrailFade:1
+PLUGIN:EuroScope History Trails:HistoryTrailLength:15
+PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
+PLUGIN:EuroScope History Trails:HistoryTrailType:0

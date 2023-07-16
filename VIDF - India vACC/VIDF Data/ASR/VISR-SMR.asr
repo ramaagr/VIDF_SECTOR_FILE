@@ -1,0 +1,47 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:Group\VISR:freetext
+Free Text:VISR\1:freetext
+Free Text:VISR\12:freetext
+Free Text:VISR\13:freetext
+Free Text:VISR\14:freetext
+Free Text:VISR\15:freetext
+Free Text:VISR\16:freetext
+Free Text:VISR\17:freetext
+Free Text:VISR\18:freetext
+Free Text:VISR\19:freetext
+Free Text:VISR\2:freetext
+Free Text:VISR\3:freetext
+Free Text:VISR\4:freetext
+Free Text:VISR\5:freetext
+Free Text:VISR\6:freetext
+Free Text:VISR\7:freetext
+Free Text:VISR\8:freetext
+Free Text:VISR\9:freetext
+Free Text:VISR\A:freetext
+Free Text:VISR\B:freetext
+Free Text:VISR\C:freetext
+Free Text:VISR\D:freetext
+Free Text:VISR\E:freetext
+Free Text:VISR\F:freetext
+Free Text:VISR\G:freetext
+Free Text:VISR\H:freetext
+Free Text:VISR\J:freetext
+Geo:VISR:
+Runways:VISR SRINAGAR 13-31:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:318.00000
+TAGFAMILY:India vACC
+WINDOWAREA:33.978778:74.753156:34.000151:74.797118
+PLUGIN:vSMR:Airport:VISR

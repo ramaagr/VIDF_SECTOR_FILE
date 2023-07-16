@@ -1,0 +1,21 @@
+These are the commands for the holding list.
+
+.hl show - to show the list
+.hl hide - to hide it
+.hl add <point> <callsign> - add a plane to the list
+.hl add <point> ASEL - add a plane to the list
+.hl del <callsign> - to remove a plane from the list
+.hl del <ASEL> - to remove a plane from the list
+.hl wait <mins> <callsign> - to add a countdown timer for the plane in the list
+.hl wait <mins> ASEL - to add a countdown timer for the plane in the list
+
+If you enter the text HOLD to the scratch pad while the aircraft has a direct to
+point entered then the plane is moved to the holding list as holding over the point.
+
+If you clear the scratch pad the plane is removed from the list.
+
+Make sure you have the plugin loaded in Euroscope. This can be found by going to
+OTHER SET > PLUG-INS in the list you should see HOLDING LIST. If not load the .dll
+which can be found in the route directory of Euroscope (Main Folder).
+
+If you done it right and loaded Euroscope you should see a holding list on your main scope.
