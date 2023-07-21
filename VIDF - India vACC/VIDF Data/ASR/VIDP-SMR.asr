@@ -1,292 +1,320 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\Arun\Music\SECTORS VIDP\VIDF_SECTOR_FILE\VIDF - India vACC\VIDF Data\Sector File\VIDF Master.sct
+SECTORTITLE:VIDF Master.sct
 Airports:VIDP:name
 Airports:VIDP:symbol
-Free Text:SCT2\A :freetext
-Free Text:SCT2\A :freetext
-Free Text:SCT2\A :freetext
-Free Text:SCT2\A :freetext
-Free Text:SCT2\A :freetext
-Free Text:SCT2\A :freetext
-Free Text:SCT2\B :freetext
+Free Text:SCT2\1:freetext
+Free Text:SCT2\148:freetext
+Free Text:SCT2\149:freetext
+Free Text:SCT2\149A:freetext
+Free Text:SCT2\149B:freetext
+Free Text:SCT2\15:freetext
+Free Text:SCT2\150:freetext
+Free Text:SCT2\151:freetext
+Free Text:SCT2\152:freetext
+Free Text:SCT2\153:freetext
+Free Text:SCT2\154:freetext
+Free Text:SCT2\155:freetext
+Free Text:SCT2\156:freetext
+Free Text:SCT2\157:freetext
+Free Text:SCT2\158:freetext
+Free Text:SCT2\159:freetext
+Free Text:SCT2\16:freetext
+Free Text:SCT2\160L:freetext
+Free Text:SCT2\160R:freetext
+Free Text:SCT2\161L:freetext
+Free Text:SCT2\161R:freetext
+Free Text:SCT2\162:freetext
+Free Text:SCT2\163L:freetext
+Free Text:SCT2\163R:freetext
+Free Text:SCT2\164L:freetext
+Free Text:SCT2\164R:freetext
+Free Text:SCT2\165:freetext
+Free Text:SCT2\17:freetext
+Free Text:SCT2\170:freetext
+Free Text:SCT2\171:freetext
+Free Text:SCT2\172:freetext
+Free Text:SCT2\173:freetext
+Free Text:SCT2\174:freetext
+Free Text:SCT2\175:freetext
+Free Text:SCT2\176:freetext
+Free Text:SCT2\177:freetext
+Free Text:SCT2\178:freetext
+Free Text:SCT2\2:freetext
+Free Text:SCT2\201:freetext
+Free Text:SCT2\202:freetext
+Free Text:SCT2\203:freetext
+Free Text:SCT2\204:freetext
+Free Text:SCT2\205:freetext
+Free Text:SCT2\206:freetext
+Free Text:SCT2\207:freetext
+Free Text:SCT2\208:freetext
+Free Text:SCT2\209:freetext
+Free Text:SCT2\210:freetext
+Free Text:SCT2\211:freetext
+Free Text:SCT2\212:freetext
+Free Text:SCT2\213:freetext
+Free Text:SCT2\214:freetext
+Free Text:SCT2\215:freetext
+Free Text:SCT2\216:freetext
+Free Text:SCT2\217:freetext
+Free Text:SCT2\218:freetext
+Free Text:SCT2\220:freetext
+Free Text:SCT2\221:freetext
+Free Text:SCT2\222:freetext
+Free Text:SCT2\223:freetext
+Free Text:SCT2\224:freetext
+Free Text:SCT2\225:freetext
+Free Text:SCT2\226:freetext
+Free Text:SCT2\227:freetext
+Free Text:SCT2\228:freetext
+Free Text:SCT2\229:freetext
+Free Text:SCT2\230:freetext
+Free Text:SCT2\231:freetext
+Free Text:SCT2\232:freetext
+Free Text:SCT2\233:freetext
+Free Text:SCT2\234:freetext
+Free Text:SCT2\235:freetext
+Free Text:SCT2\236:freetext
+Free Text:SCT2\237:freetext
+Free Text:SCT2\238:freetext
+Free Text:SCT2\239:freetext
+Free Text:SCT2\240:freetext
+Free Text:SCT2\241:freetext
+Free Text:SCT2\242:freetext
+Free Text:SCT2\243:freetext
+Free Text:SCT2\244:freetext
+Free Text:SCT2\245:freetext
+Free Text:SCT2\246:freetext
+Free Text:SCT2\247:freetext
+Free Text:SCT2\252:freetext
+Free Text:SCT2\253:freetext
+Free Text:SCT2\254:freetext
+Free Text:SCT2\255:freetext
+Free Text:SCT2\256:freetext
+Free Text:SCT2\257:freetext
+Free Text:SCT2\260:freetext
+Free Text:SCT2\261:freetext
+Free Text:SCT2\262:freetext
+Free Text:SCT2\263:freetext
+Free Text:SCT2\264:freetext
+Free Text:SCT2\265:freetext
+Free Text:SCT2\27:freetext
+Free Text:SCT2\28:freetext
+Free Text:SCT2\29:freetext
+Free Text:SCT2\3:freetext
+Free Text:SCT2\30:freetext
+Free Text:SCT2\4:freetext
+Free Text:SCT2\5:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A01:freetext
+Free Text:SCT2\A03:freetext
+Free Text:SCT2\A06:freetext
+Free Text:SCT2\A07:freetext
+Free Text:SCT2\A08:freetext
+Free Text:SCT2\A09:freetext
+Free Text:SCT2\A1:freetext
+Free Text:SCT2\A10:freetext
+Free Text:SCT2\A11:freetext
+Free Text:SCT2\A12:freetext
+Free Text:SCT2\A13:freetext
+Free Text:SCT2\A14:freetext
+Free Text:SCT2\A2:freetext
+Free Text:SCT2\A3:freetext
+Free Text:SCT2\B1:freetext
+Free Text:SCT2\B15:freetext
+Free Text:SCT2\B17:freetext
+Free Text:SCT2\B18:freetext
+Free Text:SCT2\B19:freetext
 Free Text:SCT2\B2:freetext
-Free Text:SCT2\C :freetext
-Free Text:SCT2\C1:freetext
+Free Text:SCT2\B20:freetext
+Free Text:SCT2\B21:freetext
+Free Text:SCT2\B22:freetext
+Free Text:SCT2\B24:freetext
+Free Text:SCT2\B26:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C27:freetext
+Free Text:SCT2\C28:freetext
+Free Text:SCT2\C29:freetext
+Free Text:SCT2\C30:freetext
+Free Text:SCT2\C31:freetext
+Free Text:SCT2\C32:freetext
+Free Text:SCT2\C33:freetext
+Free Text:SCT2\C34:freetext
+Free Text:SCT2\C36:freetext
 Free Text:SCT2\CARGO:freetext
-Free Text:SCT2\CE1 :freetext
-Free Text:SCT2\CE2 :freetext
-Free Text:SCT2\CW1 :freetext
-Free Text:SCT2\CW2 :freetext
-Free Text:SCT2\CW2 :freetext
-Free Text:SCT2\D :freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
 Free Text:SCT2\D1:freetext
+Free Text:SCT2\D2:freetext
+Free Text:SCT2\D3:freetext
+Free Text:SCT2\D37:freetext
+Free Text:SCT2\D39:freetext
+Free Text:SCT2\D4:freetext
+Free Text:SCT2\D4:freetext
+Free Text:SCT2\D41:freetext
+Free Text:SCT2\D43:freetext
+Free Text:SCT2\D45:freetext
+Free Text:SCT2\D46:freetext
+Free Text:SCT2\D47:freetext
+Free Text:SCT2\D48:freetext
+Free Text:SCT2\D49:freetext
+Free Text:SCT2\D5:freetext
+Free Text:SCT2\D50:freetext
+Free Text:SCT2\D51:freetext
+Free Text:SCT2\D52:freetext
+Free Text:SCT2\D53:freetext
+Free Text:SCT2\D54:freetext
+Free Text:SCT2\D55:freetext
+Free Text:SCT2\D56:freetext
+Free Text:SCT2\D58:freetext
+Free Text:SCT2\D6:freetext
+Free Text:SCT2\D60:freetext
+Free Text:SCT2\D62:freetext
+Free Text:SCT2\D7:freetext
+Free Text:SCT2\D8:freetext
+Free Text:SCT2\D9:freetext
 Free Text:SCT2\E:freetext
+Free Text:SCT2\E1:freetext
 Free Text:SCT2\E2:freetext
-Free Text:SCT2\E2:freetext
-Free Text:SCT2\E2:freetext
-Free Text:SCT2\E3:freetext
-Free Text:SCT2\E4:freetext
-Free Text:SCT2\E5:freetext
-Free Text:SCT2\F :freetext
-Free Text:SCT2\F1:freetext
-Free Text:SCT2\F2:freetext
-Free Text:SCT2\F3 :freetext
-Free Text:SCT2\F4 :freetext
-Free Text:SCT2\H :freetext
-Free Text:SCT2\J :freetext
-Free Text:SCT2\K :freetext
-Free Text:SCT2\L :freetext
-Free Text:SCT2\L1 :freetext
-Free Text:SCT2\M :freetext
-Free Text:SCT2\M1 :freetext
-Free Text:SCT2\N :freetext
-Free Text:SCT2\P :freetext
-Free Text:SCT2\P :freetext
-Free Text:SCT2\P :freetext
-Free Text:SCT2\P :freetext
-Free Text:SCT2\R :freetext
-Free Text:SCT2\R :freetext
-Free Text:SCT2\R1 :freetext
-Free Text:SCT2\R3 :freetext
-Free Text:SCT2\S :freetext
-Free Text:SCT2\S2 :freetext
-Free Text:SCT2\S3 :freetext
-Free Text:SCT2\S3 :freetext
-Free Text:SCT2\S4 :freetext
-Free Text:SCT2\S4 :freetext
-Free Text:SCT2\S5 :freetext
-Free Text:SCT2\S5 :freetext
-Free Text:SCT2\T :freetext
-Free Text:SCT2\T :freetext
-Free Text:SCT2\T :freetext
-Free Text:SCT2\T1 :freetext
-Free Text:SCT2\T2 :freetext
-Free Text:SCT2\T3 :freetext
+Free Text:SCT2\E64:freetext
+Free Text:SCT2\E66:freetext
+Free Text:SCT2\E68:freetext
+Free Text:SCT2\E70:freetext
+Free Text:SCT2\E72:freetext
+Free Text:SCT2\E74:freetext
+Free Text:SCT2\E76:freetext
+Free Text:SCT2\E78:freetext
+Free Text:SCT2\E80:freetext
+Free Text:SCT2\E82:freetext
+Free Text:SCT2\E84:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G2:freetext
+Free Text:SCT2\H1:freetext
+Free Text:SCT2\H2:freetext
+Free Text:SCT2\H3:freetext
+Free Text:SCT2\H6:freetext
+Free Text:SCT2\J7:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K1:freetext
+Free Text:SCT2\K2:freetext
+Free Text:SCT2\K3:freetext
+Free Text:SCT2\K6:freetext
+Free Text:SCT2\LINK-13:freetext
+Free Text:SCT2\LINK-14:freetext
+Free Text:SCT2\LINK-15:freetext
+Free Text:SCT2\LINK-16:freetext
+Free Text:SCT2\LINK-16:freetext
+Free Text:SCT2\LINK-30:freetext
+Free Text:SCT2\LINK-32:freetext
+Free Text:SCT2\LINK-33:freetext
+Free Text:SCT2\LINK-34:freetext
+Free Text:SCT2\LINK-39:freetext
+Free Text:SCT2\LINK1:freetext
+Free Text:SCT2\LINK10:freetext
+Free Text:SCT2\LINK19:freetext
+Free Text:SCT2\LINK2:freetext
+Free Text:SCT2\LINK3:freetext
+Free Text:SCT2\LINK4:freetext
+Free Text:SCT2\LINK5:freetext
+Free Text:SCT2\LINK6:freetext
+Free Text:SCT2\LINK7:freetext
+Free Text:SCT2\LINK8:freetext
+Free Text:SCT2\LINK9:freetext
+Free Text:SCT2\M:freetext
+Free Text:SCT2\M:freetext
+Free Text:SCT2\M:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N1:freetext
+Free Text:SCT2\N3:freetext
+Free Text:SCT2\N4:freetext
+Free Text:SCT2\N5:freetext
+Free Text:SCT2\N7:freetext
+Free Text:SCT2\N8:freetext
+Free Text:SCT2\Q:freetext
+Free Text:SCT2\Q:freetext
+Free Text:SCT2\R:freetext
+Free Text:SCT2\R:freetext
+Free Text:SCT2\R01:freetext
+Free Text:SCT2\R02:freetext
+Free Text:SCT2\R02:freetext
+Free Text:SCT2\R04:freetext
+Free Text:SCT2\R05:freetext
+Free Text:SCT2\R06:freetext
+Free Text:SCT2\R07:freetext
+Free Text:SCT2\R08:freetext
+Free Text:SCT2\R09:freetext
+Free Text:SCT2\R10:freetext
+Free Text:SCT2\R11:freetext
+Free Text:SCT2\R12:freetext
+Free Text:SCT2\R6:freetext
+Free Text:SCT2\R7:freetext
+Free Text:SCT2\S2:freetext
+Free Text:SCT2\S3:freetext
+Free Text:SCT2\T02:freetext
+Free Text:SCT2\T03:freetext
+Free Text:SCT2\T04:freetext
 Free Text:SCT2\Terminal-1:freetext
 Free Text:SCT2\Terminal-2:freetext
 Free Text:SCT2\Terminal-3:freetext
-Free Text:SCT2\U :freetext
-Free Text:SCT2\V :freetext
-Free Text:SCT2\W :freetext
-Free Text:SCT2\W1 :freetext
-Free Text:SCT2\W2 :freetext
-Free Text:SCT2\W3 :freetext
-Free Text:SCT2\Y :freetext
-Free Text:SCT2\Y :freetext
-Free Text:SCT2\Y :freetext
-Free Text:SCT2\Y5 :freetext
-Free Text:SCT2\Z :freetext
-Free Text:SCT2\Z :freetext
-Free Text:SCT2\Z :freetext
-Free Text:SCT2\Z1 :freetext
-Free Text:SCT2\Z1A :freetext
-Free Text:SCT2\Z2 :freetext
-Free Text:SCT2\Z2 :freetext
-Free Text:SCT2\Z3 :freetext
-Free Text:SCT2\Z4 :freetext
-Free Text:SCT2\Z5 :freetext
-Free Text:SCT2\Z6 :freetext
-Free Text:SCT2\Z7 :freetext
-Free Text:SCT2\Z8 :freetext
-Free Text:SCT2\Z9 :freetext
-Free Text:VIDP parkings\1:freetext
-Free Text:VIDP parkings\10:freetext
-Free Text:VIDP parkings\100:freetext
-Free Text:VIDP parkings\101:freetext
-Free Text:VIDP parkings\102:freetext
-Free Text:VIDP parkings\103:freetext
-Free Text:VIDP parkings\11:freetext
-Free Text:VIDP parkings\12:freetext
-Free Text:VIDP parkings\121:freetext
-Free Text:VIDP parkings\122:freetext
-Free Text:VIDP parkings\123:freetext
-Free Text:VIDP parkings\124:freetext
-Free Text:VIDP parkings\125:freetext
-Free Text:VIDP parkings\126:freetext
-Free Text:VIDP parkings\127:freetext
-Free Text:VIDP parkings\128:freetext
-Free Text:VIDP parkings\129:freetext
-Free Text:VIDP parkings\13:freetext
-Free Text:VIDP parkings\130:freetext
-Free Text:VIDP parkings\131:freetext
-Free Text:VIDP parkings\132:freetext
-Free Text:VIDP parkings\134:freetext
-Free Text:VIDP parkings\135:freetext
-Free Text:VIDP parkings\136:freetext
-Free Text:VIDP parkings\137:freetext
-Free Text:VIDP parkings\138:freetext
-Free Text:VIDP parkings\139:freetext
-Free Text:VIDP parkings\140:freetext
-Free Text:VIDP parkings\141:freetext
-Free Text:VIDP parkings\142:freetext
-Free Text:VIDP parkings\143:freetext
-Free Text:VIDP parkings\144:freetext
-Free Text:VIDP parkings\145:freetext
-Free Text:VIDP parkings\146:freetext
-Free Text:VIDP parkings\147:freetext
-Free Text:VIDP parkings\148:freetext
-Free Text:VIDP parkings\149:freetext
-Free Text:VIDP parkings\15:freetext
-Free Text:VIDP parkings\150:freetext
-Free Text:VIDP parkings\151:freetext
-Free Text:VIDP parkings\152:freetext
-Free Text:VIDP parkings\16:freetext
-Free Text:VIDP parkings\161:freetext
-Free Text:VIDP parkings\162:freetext
-Free Text:VIDP parkings\163:freetext
-Free Text:VIDP parkings\164:freetext
-Free Text:VIDP parkings\165:freetext
-Free Text:VIDP parkings\166:freetext
-Free Text:VIDP parkings\167:freetext
-Free Text:VIDP parkings\168:freetext
-Free Text:VIDP parkings\169:freetext
-Free Text:VIDP parkings\17:freetext
-Free Text:VIDP parkings\170:freetext
-Free Text:VIDP parkings\171:freetext
-Free Text:VIDP parkings\172:freetext
-Free Text:VIDP parkings\173:freetext
-Free Text:VIDP parkings\174:freetext
-Free Text:VIDP parkings\176:freetext
-Free Text:VIDP parkings\177:freetext
-Free Text:VIDP parkings\178:freetext
-Free Text:VIDP parkings\179:freetext
-Free Text:VIDP parkings\180:freetext
-Free Text:VIDP parkings\181:freetext
-Free Text:VIDP parkings\182:freetext
-Free Text:VIDP parkings\183:freetext
-Free Text:VIDP parkings\184:freetext
-Free Text:VIDP parkings\185:freetext
-Free Text:VIDP parkings\186:freetext
-Free Text:VIDP parkings\187:freetext
-Free Text:VIDP parkings\188:freetext
-Free Text:VIDP parkings\19:freetext
-Free Text:VIDP parkings\2:freetext
-Free Text:VIDP parkings\20:freetext
-Free Text:VIDP parkings\21:freetext
-Free Text:VIDP parkings\22:freetext
-Free Text:VIDP parkings\23:freetext
-Free Text:VIDP parkings\24:freetext
-Free Text:VIDP parkings\25:freetext
-Free Text:VIDP parkings\26:freetext
-Free Text:VIDP parkings\28:freetext
-Free Text:VIDP parkings\29:freetext
-Free Text:VIDP parkings\3:freetext
-Free Text:VIDP parkings\30:freetext
-Free Text:VIDP parkings\31:freetext
-Free Text:VIDP parkings\32:freetext
-Free Text:VIDP parkings\33:freetext
-Free Text:VIDP parkings\34:freetext
-Free Text:VIDP parkings\35:freetext
-Free Text:VIDP parkings\36:freetext
-Free Text:VIDP parkings\37:freetext
-Free Text:VIDP parkings\38:freetext
-Free Text:VIDP parkings\39:freetext
-Free Text:VIDP parkings\4:freetext
-Free Text:VIDP parkings\40:freetext
-Free Text:VIDP parkings\40:freetext
-Free Text:VIDP parkings\40:freetext
-Free Text:VIDP parkings\41:freetext
-Free Text:VIDP parkings\42:freetext
-Free Text:VIDP parkings\43:freetext
-Free Text:VIDP parkings\44:freetext
-Free Text:VIDP parkings\45:freetext
-Free Text:VIDP parkings\46:freetext
-Free Text:VIDP parkings\47:freetext
-Free Text:VIDP parkings\48:freetext
-Free Text:VIDP parkings\49:freetext
-Free Text:VIDP parkings\5:freetext
-Free Text:VIDP parkings\6:freetext
-Free Text:VIDP parkings\7:freetext
-Free Text:VIDP parkings\8:freetext
-Free Text:VIDP parkings\81:freetext
-Free Text:VIDP parkings\82:freetext
-Free Text:VIDP parkings\83:freetext
-Free Text:VIDP parkings\84:freetext
-Free Text:VIDP parkings\85:freetext
-Free Text:VIDP parkings\86:freetext
-Free Text:VIDP parkings\87:freetext
-Free Text:VIDP parkings\88:freetext
-Free Text:VIDP parkings\89:freetext
-Free Text:VIDP parkings\9:freetext
-Free Text:VIDP parkings\90:freetext
-Free Text:VIDP parkings\91:freetext
-Free Text:VIDP parkings\92:freetext
-Free Text:VIDP parkings\98:freetext
-Free Text:VIDP parkings\99:freetext
-Free Text:VIDP parkings\A1:freetext
-Free Text:VIDP parkings\A10:freetext
-Free Text:VIDP parkings\A11:freetext
-Free Text:VIDP parkings\A12:freetext
-Free Text:VIDP parkings\A13:freetext
-Free Text:VIDP parkings\A14:freetext
-Free Text:VIDP parkings\A3:freetext
-Free Text:VIDP parkings\A6:freetext
-Free Text:VIDP parkings\A7:freetext
-Free Text:VIDP parkings\A8:freetext
-Free Text:VIDP parkings\A9:freetext
-Free Text:VIDP parkings\B15:freetext
-Free Text:VIDP parkings\B17:freetext
-Free Text:VIDP parkings\B18:freetext
-Free Text:VIDP parkings\B19:freetext
-Free Text:VIDP parkings\B20:freetext
-Free Text:VIDP parkings\B21:freetext
-Free Text:VIDP parkings\B22:freetext
-Free Text:VIDP parkings\B24:freetext
-Free Text:VIDP parkings\B26:freetext
-Free Text:VIDP parkings\C27:freetext
-Free Text:VIDP parkings\C28:freetext
-Free Text:VIDP parkings\C29:freetext
-Free Text:VIDP parkings\C30:freetext
-Free Text:VIDP parkings\C31:freetext
-Free Text:VIDP parkings\C32:freetext
-Free Text:VIDP parkings\C33:freetext
-Free Text:VIDP parkings\C34:freetext
-Free Text:VIDP parkings\C36:freetext
-Free Text:VIDP parkings\D37:freetext
-Free Text:VIDP parkings\D39:freetext
-Free Text:VIDP parkings\D41:freetext
-Free Text:VIDP parkings\D43:freetext
-Free Text:VIDP parkings\D45:freetext
-Free Text:VIDP parkings\D46:freetext
-Free Text:VIDP parkings\D47:freetext
-Free Text:VIDP parkings\D48:freetext
-Free Text:VIDP parkings\D49:freetext
-Free Text:VIDP parkings\D50:freetext
-Free Text:VIDP parkings\D51:freetext
-Free Text:VIDP parkings\D52:freetext
-Free Text:VIDP parkings\D53:freetext
-Free Text:VIDP parkings\D54:freetext
-Free Text:VIDP parkings\D55:freetext
-Free Text:VIDP parkings\D56:freetext
-Free Text:VIDP parkings\D58:freetext
-Free Text:VIDP parkings\D60:freetext
-Free Text:VIDP parkings\D62:freetext
-Free Text:VIDP parkings\E68:freetext
-Free Text:VIDP parkings\E70:freetext
-Free Text:VIDP parkings\E72:freetext
-Free Text:VIDP parkings\E74:freetext
-Free Text:VIDP parkings\E76:freetext
-Free Text:VIDP parkings\E78:freetext
-Free Text:VIDP parkings\E80:freetext
-Free Text:VIDP parkings\E82:freetext
-Free Text:VIDP parkings\E84:freetext
-Free Text:VIDP parkings\R1:freetext
-Free Text:VIDP parkings\R2:freetext
-Free Text:VIDP parkings\R3:freetext
-Free Text:VIDP parkings\R4:freetext
-Free Text:VIDP parkings\R5:freetext
-Free Text:VIDP parkings\R6:freetext
-Free Text:VIDP parkings\R7:freetext
-Free Text:VIDP parkings\R8:freetext
-Free Text:VIDP parkings\R9:freetext
+Free Text:SCT2\U:freetext
+Free Text:SCT2\V:freetext
+Free Text:SCT2\W:freetext
+Free Text:SCT2\Y1:freetext
+Free Text:SCT2\Y2:freetext
+Free Text:SCT2\Y4:freetext
+Free Text:SCT2\Y5:freetext
+Free Text:SCT2\Y5:freetext
+Free Text:SCT2\Y6:freetext
+Free Text:SCT2\Y7:freetext
+Free Text:SCT2\Y8:freetext
+Free Text:SCT2\Z:freetext
+Free Text:SCT2\Z:freetext
+Free Text:SCT2\Z:freetext
+Free Text:SCT2\Z:freetext
+Free Text:SCT2\Z:freetext
+Free Text:SCT2\Z2:freetext
+Free Text:SCT2\Z3:freetext
+Free Text:SCT2\Z4:freetext
+Free Text:SCT2\Z5:freetext
+Free Text:SCT2\Z6:freetext
+Free Text:SCT2\Z7:freetext
 Geo:VIDP GroundLayout:
 Regions:VIDP GroundLayout:polygon
 Runways:VIDP INDIRA GANDHI INTL 09-27:name
 Runways:VIDP INDIRA GANDHI INTL 10-28:name
-Runways:VIDP INDIRA GANDHI INTL 11-29:name
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -300,9 +328,9 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:348.00000
 TAGFAMILY:India vACC
-WINDOWAREA:28.532549:77.050109:28.579462:77.146607
+WINDOWAREA:28.538042:77.057564:28.575777:77.134762
 PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
-PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:0
 PLUGIN:Virtual Controller Assistant:CDXPOS:1194
 PLUGIN:Virtual Controller Assistant:CDYPOS:505
 PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:0
