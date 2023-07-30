@@ -1,6 +1,8 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Arun\Music\SECTORS VIDP\VIDF_SECTOR_FILE\VIDF - India vACC\VIDF Data\Sector File\VIDF Master.sct
+SECTORTITLE:VIDF Master.sct
 Airports:VIJP:name
 Airports:VIJP:symbol
 Free Text:VIJP\1:freetext
@@ -41,6 +43,6 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:5.00000
 TAGFAMILY:India vACC
-WINDOWAREA:26.817237:75.793635:26.834335:75.828805
+WINDOWAREA:26.817190:75.793635:26.834382:75.828805
 PLUGIN:vSMR:ActiveProfile:India vACC
 PLUGIN:vSMR:Airport:VIJP

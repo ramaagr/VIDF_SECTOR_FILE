@@ -12,12 +12,12 @@
         }
     },
     "filters": {
-        "hide_above_alt": 4000,
-        "hide_above_spd": 250,
-        "radar_range_nm": 30,
+        "hide_above_alt": 50000,
+        "hide_above_spd": 550,
+        "radar_range_nm": 300,
         "night_alpha_setting": 110,
         "pro_mode": {
-            "enable": false,
+            "enable": true,
             "accept_pilot_squawk": false,
             "do_not_autocorrelate_squawks": [
                 "1000",
@@ -56,7 +56,7 @@
         },
         "departure": {
             "definition": [
-                ["callsign", "dest", "groundstatus"],
+                ["callsign","wake", "dest", "groundstatus"],
                 ["sctype", "asid", "deprwy"]
             ],
             "background_color": {
@@ -139,7 +139,7 @@
         },
         "uncorrelated": {
             "definition": [
-                ["systemid"]
+                ["systemid","actype","sqerror"]
             ],
             "background_color": {
                 "r": 150,
