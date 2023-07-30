@@ -1,6 +1,8 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Arun\Music\SECTORS VIDP\VIDF_SECTOR_FILE\VIDF - India vACC\VIDF Data\Sector File\VIDF Master.sct
+SECTORTITLE:VIDF Master.sct
 Airports:VILK:name
 Airports:VILK:symbol
 Geo:VILK:
@@ -18,6 +20,6 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:India vACC
-WINDOWAREA:26.754630:80.872094:26.771728:80.907264
+WINDOWAREA:26.754583:80.872094:26.771775:80.907264
 PLUGIN:vSMR:ActiveProfile:India vACC
 PLUGIN:vSMR:Airport:VILK

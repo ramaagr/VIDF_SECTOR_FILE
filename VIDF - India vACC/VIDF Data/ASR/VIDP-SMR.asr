@@ -1,7 +1,7 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:E:\GitHub\VIDF_SECTOR_FILE\VIDF - India vACC\VIDF Data\Sector File\VIDF Master.sct
+SECTORFILE:C:\Users\Arun\Music\SECTORS VIDP\VIDF_SECTOR_FILE\VIDF - India vACC\VIDF Data\Sector File\VIDF Master.sct
 SECTORTITLE:VIDF Master.sct
 Airports:VIDP:name
 Airports:VIDP:symbol
@@ -348,7 +348,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:348.00000
 TAGFAMILY:India vACC
-WINDOWAREA:28.535688:77.060499:28.573426:77.138124
+WINDOWAREA:28.535585:77.060499:28.573529:77.138124
 PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
 PLUGIN:Virtual Controller Assistant:CDSHOW:0
 PLUGIN:Virtual Controller Assistant:CDXPOS:1194
